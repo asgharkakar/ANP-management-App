@@ -1,0 +1,47 @@
+name: partyapp
+description: "A new Flutter project."
+
+# Prevents accidental publishing to pub.dev
+publish_to: 'none'
+
+# App versioning
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# Dependencies for the project
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI icons
+  cupertino_icons: ^1.0.8
+
+  # Firebase dependencies (Updated versions)
+  firebase_core: ^2.25.4
+  cloud_firestore: ^4.15.3
+  firebase_auth: ^4.17.6
+
+  # Image picker
+  image_picker: ^1.1.2
+  font_awesome_flutter: ^10.8.0
+  carousel_slider: ^5.0.0
+  rxdart: ^0.28.0
+  intl: ^0.20.2
+  shared_preferences: ^2.5.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Recommended linting package for clean code
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  # Assets section (Ensure correct indentation)
+  assets:
+     - assets/anp.png
