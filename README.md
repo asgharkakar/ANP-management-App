@@ -25,19 +25,19 @@
 ## Screenshots
 Here are some screenshots of the app:
 
-![Screenshot 1](./assets/Screenshot1.jpg)
+<img src="./assets/Screenshot1.jpg" alt="Screenshot 1" width="600" />
 *Description of Screenshot 1*
 
-![Screenshot 2](./assets/Screenshot2.jpg)
+<img src="./assets/Screenshot2.jpg" alt="Screenshot 2" width="600" />
 *Description of Screenshot 2*
 
-![Screenshot 3](./assets/Screenshot3.jpg)
+<img src="./assets/Screenshot3.jpg" alt="Screenshot 3" width="600" />
 *Description of Screenshot 3*
 
-![Screenshot 4](./assets/Screenshot4.jpg)
+<img src="./assets/Screenshot4.jpg" alt="Screenshot 4" width="600" />
 *Description of Screenshot 4*
 
-![Screenshot 5](./assets/Screenshot5.jpg)
+<img src="./assets/Screenshot5.jpg" alt="Screenshot 5" width="600" />
 *Description of Screenshot 5*
 
 ## Technology Stack:
