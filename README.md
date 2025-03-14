@@ -4,10 +4,10 @@
 
 ## Key Features:
 - **Hierarchical Activity Management:**
-  - **Units:** Add/view unit-level activities and view Tehsil-level activities.
-  - **Tehsil:** Add Tehsil-level activities and view district-level activities.
-  - **District:** Add district-level activities, view province-level activities, and monitor unit activities.
-  - **Province:** View activities across districts, tehsils, and units within the province.
+  - **Units:** Add unit-level activities and view unit-level activities.
+  - **Tehsil:** Add/view Tehsil-level activities and view Unit-level activities.
+  - **District:** Add/view district-level activities, view Tehsil-level activities, and monitor unit activities.
+  - **Province:** add/View province level and view activities across districts, tehsils, and units within the province.
   - **Central:** Access activities across all provinces, districts, tehsils, and units.
 
 - **Private Access:**  
