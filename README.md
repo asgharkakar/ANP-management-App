@@ -31,22 +31,22 @@ Here are some screenshots of the app:
     <td><img src="./assets/Screenshot2.jpg" alt="Screenshot 2" width="300" /></td>
   </tr>
   <tr>
-    <td>*Description of Screenshot 1*</td>
-    <td>*Description of Screenshot 2*</td>
+    <td>*Splash Screen*</td>
+    <td>*Central Dashboard*</td>
   </tr>
   <tr>
     <td><img src="./assets/Screenshot3.jpg" alt="Screenshot 3" width="300" /></td>
     <td><img src="./assets/Screenshot4.jpg" alt="Screenshot 4" width="300" /></td>
   </tr>
   <tr>
-    <td>*Description of Screenshot 3*</td>
-    <td>*Description of Screenshot 4*</td>
+    <td>*Add Activities Screen*</td>
+    <td>*View Activities Screen*</td>
   </tr>
   <tr>
     <td colspan="2"><img src="./assets/Screenshot5.jpg" alt="Screenshot 5" width="600" /></td>
   </tr>
   <tr>
-    <td colspan="2">*Description of Screenshot 5*</td>
+    <td colspan="2">*News Feed Screen*</td>
   </tr>
 </table>
 
