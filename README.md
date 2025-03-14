@@ -25,20 +25,30 @@
 ## Screenshots
 Here are some screenshots of the app:
 
-<img src="./assets/Screenshot1.jpg" alt="Screenshot 1" width="600"  />
-*Description of Screenshot 1*
-
-<img src="./assets/Screenshot2.jpg" alt="Screenshot 2" width="600" />
-*Description of Screenshot 2*
-
-<img src="./assets/Screenshot3.jpg" alt="Screenshot 3" width="600" />
-*Description of Screenshot 3*
-
-<img src="./assets/Screenshot4.jpg" alt="Screenshot 4" width="600" />
-*Description of Screenshot 4*
-
-<img src="./assets/Screenshot5.jpg" alt="Screenshot 5" width="600" />
-*Description of Screenshot 5*
+<table>
+  <tr>
+    <td><img src="./assets/Screenshot1.jpg" alt="Screenshot 1" width="300" /></td>
+    <td><img src="./assets/Screenshot2.jpg" alt="Screenshot 2" width="300" /></td>
+  </tr>
+  <tr>
+    <td>*Description of Screenshot 1*</td>
+    <td>*Description of Screenshot 2*</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/Screenshot3.jpg" alt="Screenshot 3" width="300" /></td>
+    <td><img src="./assets/Screenshot4.jpg" alt="Screenshot 4" width="300" /></td>
+  </tr>
+  <tr>
+    <td>*Description of Screenshot 3*</td>
+    <td>*Description of Screenshot 4*</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/Screenshot5.jpg" alt="Screenshot 5" width="600" /></td>
+  </tr>
+  <tr>
+    <td colspan="2">*Description of Screenshot 5*</td>
+  </tr>
+</table>
 
 ## Technology Stack:
 - **Backend:** Firebase (Authentication, Realtime Database, Firestore)
