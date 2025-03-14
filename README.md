@@ -27,3 +27,12 @@
 - **Frontend:** Flutter
 
 This app is ideal for internal party use, providing a secure and efficient way to manage activities across all levels. Unauthorized access is strictly prohibited.
+![Screenshot 1](./assets/Screenshot1.jng)
+
+![Screenshot 2](./assets/Screenshot2.jng)
+
+![Screenshot 3](./assets/Screenshot3.jng)
+
+![Screenshot 4](./assets/Screenshot4.jng)
+
+![Screenshot 5](./assets/Screenshot5.jng)
